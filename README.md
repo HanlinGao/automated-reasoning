@@ -13,9 +13,9 @@ Selected problems for demostration
 * Wumpus World in textbook Artificial Intelligence: A mordern Approach
 * Horn Clauses
 * The Doors of Enlightenment
-# Usage
+## Usage
 run main.py directly
-# Contributor
+## Contributor
 Hanlin Gao(ishenrygao@gmail.com)
 
 Yue Shang(shangyue9417@hotmail.com)
